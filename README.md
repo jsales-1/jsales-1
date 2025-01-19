@@ -1,4 +1,4 @@
-# Hello, I'm José David! 👋
+# Hello, I'm José David! 👋🏾
 
 <div>
 <a href="https://github.com/jsales-1">
@@ -6,7 +6,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jsales-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-## About Me 🧑‍🔬
+## About Me 🧑🏾‍🔬
 I am currently pursuing a Bachelor's degree in Science and Technology at Ilum School of Science, part of the Brazilian Center for Research in Energy and Materials (CNPEM). My experience includes Python programming applied to data analysis and machine learning models. I have worked with Keras and TensorFlow to develop neural networks for addressing scientific regression problems, particularly in cheminformatics.
 
 ## Machine Learning Skills 📊
