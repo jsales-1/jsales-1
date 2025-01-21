@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/jsales-1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsales-1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jsales-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsales-1&layout=compact&langs_count=7&theme=dracula&count_private=true&token=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"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jsales-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true,token=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"/>
 </div>
   
 ## About Me 🧑🏾‍🔬
