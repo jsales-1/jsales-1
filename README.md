@@ -1,19 +1,14 @@
 # Hello, I'm José David! 👋🏾
 
-<div>
-  <a href="https://github.com/jsales-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsales-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsales-1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsales-1&theme=dark))
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsales-1&theme=dark)
 
 
 ## About Me 🧑🏾‍🔬
 I am currently pursuing a Bachelor's degree in Science and Technology at Ilum School of Science, part of the Brazilian Center for Research in Energy and Materials (CNPEM). My experience includes Python programming applied to data analysis and machine learning models. I have worked with Keras and TensorFlow to develop neural networks for addressing scientific regression problems, particularly in cheminformatics.
 
 ## Machine Learning Skills 📊
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://camo.githubusercontent.com/d1add74e4e24c0cf4c93483c28654a75a088782e6e4df8a55a1f79bdd2894f36/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7363696b69746c6561726e2f7363696b69746c6561726e2d6f726967696e616c2e737667" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin-right: 10px;"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://www.rdkit.org/docs/_static/logo.png" width="40" height="40" style="margin-right: 10px;"/>  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-without-subtitle.svg" width="40" height="40" style="margin-up: 10px;"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin-right: 10px;"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://www.rdkit.org/docs/_static/logo.png" width="40" height="40" style="margin-right: 10px;"/>  
 
 
 ## Currently Learning 📚
