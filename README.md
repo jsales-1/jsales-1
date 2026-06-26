@@ -1,15 +1,14 @@
 # Hello, I'm José David! 👋🏾
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsales-1&theme=dark))
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsales-1&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsales-1&theme=dark)
 
 
 ## About Me 🧑🏾‍🔬
-I am currently pursuing a Bachelor's degree in Science and Technology at Ilum School of Science, part of the Brazilian Center for Research in Energy and Materials (CNPEM). My experience includes Python programming applied to data analysis and machine learning models. I have worked with Keras and TensorFlow to develop neural networks for addressing scientific regression problems, particularly in cheminformatics.
+I am currently a Laboratory Analyst at the Brazilian Center for Research in Energy and Materials (CNPEM) and hold a Bachelor's degree in Science and Technology from Ilum School of Science. I work with the physicochemical characterization and analysis of samples. My experience includes Python programming for machine learning, neural networks, mathematical optimization, and data analysis. Additionally, I have experience in the automation of scientific experiments using the Jubilee platform. I also work with hardware description languages, using Verilog and SystemVerilog for the verification and synthesis of digital circuits.
 
 ## Machine Learning Skills 📊
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-without-subtitle.svg" width="40" height="40" style="margin-up: 10px;"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin-right: 10px;"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" style="margin-right: 10px;"/>   <img loading="lazy" src="https://www.rdkit.org/docs/_static/logo.png" width="40" height="40" style="margin-right: 10px;"/>  
-
 
 ## Currently Learning 📚
 
