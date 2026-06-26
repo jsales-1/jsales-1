@@ -1,9 +1,7 @@
 # Hello, I'm José David! 👋🏾
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsales-1&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsales-1&theme=dark)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsales-1&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsales-1&layout=compact&theme=dark)
 ## About Me 🧑🏾‍🔬
 I am currently a Laboratory Analyst at the Brazilian Center for Research in Energy and Materials (CNPEM) and hold a Bachelor's degree in Science and Technology from Ilum School of Science. I work with the physicochemical characterization and analysis of samples. My experience includes Python programming for machine learning, neural networks, mathematical optimization, and data analysis. Additionally, I have experience in the automation of scientific experiments using the Jubilee platform. I also work with hardware description languages, using Verilog and SystemVerilog for the verification and synthesis of digital circuits.
 
